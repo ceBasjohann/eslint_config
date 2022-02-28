@@ -1,14 +1,15 @@
-let x = 5
-let y = 2
-let z = x + y;  
+let x = 5;
+let y = 2;
+let z = x + y;
 
 function test(){
-      console.log(  "test ")
+	console.log(  'test ');
 
-      document.getElementById('demo').innerHTML = Date()
+	// document.getElementById("demo").innerHTML = Date();
      
-        };
+}
 
-        if(){
-            else({})
-        }
+if(z){
+	console.log('a');
+	test();
+}
