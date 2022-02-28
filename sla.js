@@ -13,3 +13,4 @@ if(z){
 	console.log('a');
 	teste();
 }
+//mudou e deixou mais bunitinho 
